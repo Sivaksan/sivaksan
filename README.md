@@ -10,7 +10,7 @@
 
  👋 Hi, **I’m @sivakshan**
 
- 🌱 I’m currently learning Bsc Hons in Software Engineering **
+ 🌱 I’m currently learning MSc in Robotics and AI **
 
  👯 I’m looking to collaborate on **OpenSource Projects**
 
